@@ -1,8 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "yudell reiz"
-	},
+	"author": "Yudell Reiz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
