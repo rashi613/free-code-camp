@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yudell Reiz",
 	"description": "This is my practice run!",
+	"keywords": [ "freeCodeCamp", "practice", "testing" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
